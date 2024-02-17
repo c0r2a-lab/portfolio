@@ -13,13 +13,12 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ishihara Yuudai </span>
             from <span className="purple"> Shizuoka, Japan.</span>
             <br />
-            I was born between Ishihara Tadashi and Jalan Bayer in Singapore on July 5th 1998 and I grew up there until when I was 15.
-            When I was 15, I came back to Shizuoka and studied Computer Science at Nagoya University after this move.
-            I got Master's degree in Computer Science there and started working as a full stack engineer.
-            During working in real world, I have practiced cutting-edge technologies like Machine Learning and Blockchain.
-            I put priority to team-work.
+            
+            I was born in Singapore on July 5th, 1998, between Ishihara Tadashi and Jalan Bayer. My formative years were spent in Singapore until the age of 15. At that point, I relocated to Shizuoka, Japan, where I pursued a degree in Computer Science at Nagoya University.
             <br />
-            I also have secondary works, they are:
+            Upon completing my studies, I obtained a Master's degree in Computer Science and transitioned into a role as a full stack engineer. Throughout my professional journey, I have actively engaged with cutting-edge technologies such as Machine Learning and Blockchain. I prioritize collaborative teamwork in all my endeavors, recognizing its importance in achieving impactful outcomes.
+            <br />
+            I also have secondary skills, they are:
             <br />
           </p>
           <ul>
