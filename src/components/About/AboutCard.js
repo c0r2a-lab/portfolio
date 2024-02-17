@@ -14,12 +14,12 @@ function AboutCard() {
             from <span className="purple"> Shizuoka, Japan.</span>
             <br />
             I was born between Ishihara Tadashi and Jalan Bayer in Singapore on July 5th 1998 and I grew up there until when I was 15.
-            After my father was passed away, I came back to Shizuoka, my father's homeland, and studied Computer Science at Nagoya University after this move.
-            I have got Master's degree in Computer Science and started working as a full stack engineer originally.
-            During working in world, I have practiced some cutting-edge technologies such as Machine Learning and Blockchain technology and implemented them to real-life.
-            I don't care how I was living before, I just focus on how I will work in the future since I believe I am still at starting point and have to learn more and more.
+            When I was 15, I came back to Shizuoka and studied Computer Science at Nagoya University after this move.
+            I got Master's degree in Computer Science there and started working as a full stack engineer.
+            During working in real world, I have practiced cutting-edge technologies like Machine Learning and Blockchain.
+            I put priority to team-work.
             <br />
-            Also, what I am going to say is that I have secondary works, they are:
+            I also have secondary works, they are:
             <br />
           </p>
           <ul>
