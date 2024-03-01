@@ -34,7 +34,7 @@ function AboutCard() {
           </ul>
           <p style={{textAlign: "justify"}}>Thanks.</p>
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Don't hesitate. Go forward fixing previous mistakes."{" "}
+            "Don't hesitate. Don't relax."{" "}
           </p>
           <footer className="blockquote-footer">Ishihara Yuudai</footer>
         </blockquote>
