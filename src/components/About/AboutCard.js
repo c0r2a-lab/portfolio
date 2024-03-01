@@ -14,7 +14,7 @@ function AboutCard() {
             from <span className="purple"> Shizuoka, Japan.</span>
             <br />
             
-            I was born in Singapore on July 5th, 1998, between Ishihara Tadashi and Jalan Bayer. My formative years were spent in Singapore until the age of 15. At that point, I relocated to Shizuoka, Japan, where I pursued a degree in Computer Science at Nagoya University.
+            My formative years were spent in Singapore until the age of 15. At that point, I relocated to Shizuoka, Japan, where I pursued a degree in Computer Science at Nagoya University.
             <br />
             Upon completing my studies, I obtained a Master's degree in Computer Science and transitioned into a role as a full stack engineer. Throughout my professional journey, I have actively engaged with cutting-edge technologies such as Machine Learning and Blockchain. I prioritize collaborative teamwork in all my endeavors, recognizing its importance in achieving impactful outcomes.
             <br />
