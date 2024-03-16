@@ -21,6 +21,20 @@ function App() {
   const [load, upadateLoad] = useState(true);
 
   useEffect(() => {
+ 
+    // Disable text selection for elements
+    // with class "no-select"
+    const noSelectElements =
+        document.querySelectorAll(".no-select");
+    noSelectElements.forEach((element) => {
+        element.style.webkitUserSelect = "none";
+        element.style.mozUserSelect = "none";
+        element.style.msUserSelect = "none";
+        element.style.userSelect = "none";
+    });
+}, []);
+
+  useEffect(() => {
     const timer = setTimeout(() => {
       upadateLoad(false);
     }, 1200);
