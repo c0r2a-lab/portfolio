@@ -18,23 +18,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a co-founder & machine learning engineer at Innovative-AI.
-              <br />
-              <br />I am focusing on
-              <i>
-                <b className="purple"> Finding AI/ML Solutions</b> and <b className="purple">Combining AI & Blockchain </b>
-              </i>.
-              <br />
-              <br />
-              I have secondary works; &nbsp;
-              <i>
-                <b className="purple">Reverse Engineering, Malware Research </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Vulnerability Research
-                </b>
-              </i>.
-              <br />
+            As an object-oriented software developer, I specialize in creating <span className="purple">effective technological solutions</span> by <span className="purple">integrating AI and blockchain</span>. 
+            <br />
+            Additionally, I excel in <span className="purple">vulnerability hunting</span>, identifying potential <span className="purple">security weaknesses</span>, and implementing proactive measures to safeguard digital assets. 
+            <br />
+            Moreover, I have experience working on network security projects such as <span className="purple">VPN</span> and <span className="purple">reverse proxy</span>, further expanding my skill set in ensuring robust and secure digital infrastructures.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -53,6 +41,16 @@ function Home2() {
               <li className="social-icons">
                 <a
                   href="https://github.com/c0r2a-lab"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillGithub />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://github.com/c0r2a-hub"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

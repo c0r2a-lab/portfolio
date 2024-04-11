@@ -24,6 +24,26 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
+        <DiJavascript1 />
+        <h6>JavaScript</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNodejs />
+        <h6>Node.js</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaPython />
+        <h6>Python</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiJava />
+        <h6>Java</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <CgCPlusPlus />
+        <h6>C++</h6>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <GiArtificialIntelligence />
         <h6>Machine Learning</h6>
       </Col>
@@ -44,32 +64,12 @@ function Techstack() {
         <h6>Graph Neural Network</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <FaPython />
-        <h6>Python</h6>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
-        <h6>Java</h6>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
-        <h6>C++</h6>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <FaRust />
         <h6>Rust</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiHiveBlockchain />
         <h6>Blockchain</h6>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
-        <h6>JavaScript</h6>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
-        <h6>Node.js</h6>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiSolidity />

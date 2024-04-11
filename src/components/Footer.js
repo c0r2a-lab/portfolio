@@ -13,16 +13,26 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Co-founder of Innovative-AI</h3>
+          <h3>Y. I.</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Yuudai Ishihara ( Called c0r2a or tesla8877 )</h3>
+          <h3>Yuudai Ishihara</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
                 href="https://github.com/c0r2a-lab"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiFillGithub />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://github.com/c0r2a-hub"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
